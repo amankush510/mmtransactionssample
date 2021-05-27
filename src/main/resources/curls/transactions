@@ -1,0 +1,1 @@
+curl --location --request GET 'http://localhost:8080/matchmovesample-0.0.1-SNAPSHOT/user/22/transactions?from=05/10/2021a&to=05/27/2021&page=0&size=5'
